@@ -4,7 +4,7 @@ import Button from '@material-ui/core/Button';
 import { action } from '@storybook/addon-actions';
 
 export default {
-  title: 'Material Button',
+  title: 'Material UI Button Defaults',
 };
 
 export const Default = () => (
