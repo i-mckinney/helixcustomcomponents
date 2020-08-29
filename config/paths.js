@@ -70,10 +70,10 @@ module.exports = {
   dotenv: resolveApp('.env'),
   appPath: resolveApp('.'),
   appBuild: resolveApp('build'),
-  appDemoBuild: resolveApp('demo'), // CRL: Added for demo purposes
+  appDemoBuild: resolveApp('src/index'), 
   appPublic: resolveApp('public'),
   appHtml: resolveApp('public/index.html'),
-  appIndexJs: resolveModule(resolveApp, 'src/demo/index'), // CRL: Updated for demo purposes
+  appIndexJs: resolveModule(resolveApp, 'src/index'), 
   appPackageJson: resolveApp('package.json'),
   appSrc: resolveApp('src'),
   appTsConfig: resolveApp('tsconfig.json'),
