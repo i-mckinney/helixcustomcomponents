@@ -684,6 +684,7 @@ module.exports = function(webpackEnv) {
       ? {
         react: 'react',
         'react-dom': 'react-dom',
+        '@material-ui/core' : '@material-ui/core'
       }
       : {},
     // Some libraries import Node modules but don't use them in the browser.
