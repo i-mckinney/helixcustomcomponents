@@ -682,7 +682,7 @@ module.exports = function(webpackEnv) {
     //  no need to ship React since it's shipped with the main app
     externals: isEnvProduction
       ? {
-        react: 'react',
+        'react': 'react',
         'react-dom': 'react-dom',
         '@material-ui/core' : '@material-ui/core',
         '@material-ui/styles': '@material-ui/styles',

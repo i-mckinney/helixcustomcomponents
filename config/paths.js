@@ -90,7 +90,7 @@ module.exports = {
   appDemoSrc: resolveApp('src/demo'),
 
   // CRL: New paths for library
-  appLibIndexJs: resolveModule(resolveApp, 'src/lib/index'),
+  appLibIndexJs: resolveModule(resolveApp, 'src/index'),
   appLibSrc: resolveApp('src/lib'),
 };
 
