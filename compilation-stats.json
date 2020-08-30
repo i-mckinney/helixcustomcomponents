@@ -1,0 +1,824 @@
+{
+  "errors": [
+    "./src/lib/components/MUI-Buttons/styled-button.js\nModule not found: Error: Can't resolve '@material-ui/core/Button' in 'C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\MUI-Buttons'\nresolve '@material-ui/core/Button' in 'C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\MUI-Buttons'\n  Parsed request is a module\n  using description file: C:\\Users\\baseb\\helixcustcomponents\\package.json (relative path: ./src/lib/components/MUI-Buttons)\n    Field 'browser' doesn't contain a valid alias configuration\n    resolve as module\n      C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\MUI-Buttons\\node_modules doesn't exist or is not a directory\n      C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\node_modules doesn't exist or is not a directory\n      C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\node_modules doesn't exist or is not a directory\n      C:\\Users\\baseb\\helixcustcomponents\\src\\node_modules doesn't exist or is not a directory\n      C:\\Users\\baseb\\node_modules doesn't exist or is not a directory\n      C:\\Users\\node_modules doesn't exist or is not a directory\n      C:\\node_modules doesn't exist or is not a directory\n      looking for modules in C:\\Users\\baseb\\helixcustcomponents\\node_modules\n        using description file: C:\\Users\\baseb\\helixcustcomponents\\package.json (relative path: ./node_modules)\n          Field 'browser' doesn't contain a valid alias configuration\n          using description file: C:\\Users\\baseb\\helixcustcomponents\\package.json (relative path: ./node_modules/@material-ui/core/Button)\n            no extension\n              Field 'browser' doesn't contain a valid alias configuration\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button doesn't exist\n            .wasm\n              Field 'browser' doesn't contain a valid alias configuration\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button.wasm doesn't exist\n            .mjs\n              Field 'browser' doesn't contain a valid alias configuration\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button.mjs doesn't exist\n            .js\n              Field 'browser' doesn't contain a valid alias configuration\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button.js doesn't exist\n            .json\n              Field 'browser' doesn't contain a valid alias configuration\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button.json doesn't exist\n            as directory\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button doesn't exist\n[C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\MUI-Buttons\\node_modules]\n[C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\node_modules]\n[C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\node_modules]\n[C:\\Users\\baseb\\helixcustcomponents\\src\\node_modules]\n[C:\\Users\\baseb\\node_modules]\n[C:\\Users\\node_modules]\n[C:\\node_modules]\n[C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button]\n[C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button.wasm]\n[C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button.mjs]\n[C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button.js]\n[C:\\Users\\baseb\\helixcustcomponents\\node_modules\\@material-ui\\core\\Button.json]\n @ ./src/lib/components/MUI-Buttons/styled-button.js 3:0-49 5:28-37\n @ ./src/index.js",
+    "./src/lib/components/MUI-Buttons/styled-button.js\nModule not found: Error: Can't resolve 'styled-components' in 'C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\MUI-Buttons'\nresolve 'styled-components' in 'C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\MUI-Buttons'\n  Parsed request is a module\n  using description file: C:\\Users\\baseb\\helixcustcomponents\\package.json (relative path: ./src/lib/components/MUI-Buttons)\n    Field 'browser' doesn't contain a valid alias configuration\n    resolve as module\n      C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\MUI-Buttons\\node_modules doesn't exist or is not a directory\n      C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\node_modules doesn't exist or is not a directory\n      C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\node_modules doesn't exist or is not a directory\n      C:\\Users\\baseb\\helixcustcomponents\\src\\node_modules doesn't exist or is not a directory\n      C:\\Users\\baseb\\node_modules doesn't exist or is not a directory\n      C:\\Users\\node_modules doesn't exist or is not a directory\n      C:\\node_modules doesn't exist or is not a directory\n      looking for modules in C:\\Users\\baseb\\helixcustcomponents\\node_modules\n        using description file: C:\\Users\\baseb\\helixcustcomponents\\package.json (relative path: ./node_modules)\n          Field 'browser' doesn't contain a valid alias configuration\n          using description file: C:\\Users\\baseb\\helixcustcomponents\\package.json (relative path: ./node_modules/styled-components)\n            no extension\n              Field 'browser' doesn't contain a valid alias configuration\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components doesn't exist\n            .wasm\n              Field 'browser' doesn't contain a valid alias configuration\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components.wasm doesn't exist\n            .mjs\n              Field 'browser' doesn't contain a valid alias configuration\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components.mjs doesn't exist\n            .js\n              Field 'browser' doesn't contain a valid alias configuration\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components.js doesn't exist\n            .json\n              Field 'browser' doesn't contain a valid alias configuration\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components.json doesn't exist\n            as directory\n              C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components doesn't exist\n[C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\MUI-Buttons\\node_modules]\n[C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\node_modules]\n[C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\node_modules]\n[C:\\Users\\baseb\\helixcustcomponents\\src\\node_modules]\n[C:\\Users\\baseb\\node_modules]\n[C:\\Users\\node_modules]\n[C:\\node_modules]\n[C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components]\n[C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components.wasm]\n[C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components.mjs]\n[C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components.js]\n[C:\\Users\\baseb\\helixcustcomponents\\node_modules\\styled-components.json]\n @ ./src/lib/components/MUI-Buttons/styled-button.js 1:0-39 5:21-27\n @ ./src/index.js",
+    "./src/lib/components/StorybookDocsExamples/Button.js 11:4\nModule parse failed: Unexpected token (11:4)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n|   const mode = primary ? 'storybook-button--primary' : 'storybook-button--secondary';\n|   return (\n>     <button\n|       type=\"button\"\n|       className={['storybook-button', `storybook-button--${size}`, mode].join(' ')}\n @ ./src/index.js 2:0-71 6:0-11:2",
+    "./src/lib/components/StorybookDocsExamples/Header.js 8:2\nModule parse failed: Unexpected token (8:2)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n| \n| export const Header = ({ user, onLogin, onLogout, onCreateAccount }) => (\n>   <header>\n|     <div className=\"wrapper\">\n|       <div>\n @ ./src/index.js 1:0-71 6:0-11:2",
+    "./src/lib/components/StorybookDocsExamples/Page.js 8:2\nModule parse failed: Unexpected token (8:2)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n| \n| export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => (\n>   <article>\n|     <Header user={user} onLogin={onLogin} onLogout={onLogout} onCreateAccount={onCreateAccount} />\n| \n @ ./src/index.js 3:0-66 6:0-11:2"
+  ],
+  "warnings": [
+    "configuration\nThe 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.\nYou can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/"
+  ],
+  "version": "4.41.0",
+  "hash": "a0373a90d52aeac86b0f",
+  "time": 78,
+  "builtAt": 1598758089562,
+  "publicPath": "",
+  "outputPath": "C:\\Users\\baseb\\helixcustcomponents\\dist",
+  "assetsByChunkName": {
+    "main": "main.js"
+  },
+  "assets": [
+    {
+      "name": "main.js",
+      "size": 3110,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "main.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "main.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": 0,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 1991,
+      "names": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "hash": "097463929ad81b9f3baa",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [
+        {
+          "id": 0,
+          "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\StorybookDocsExamples\\Header.js",
+          "name": "./src/lib/components/StorybookDocsExamples/Header.js",
+          "index": 1,
+          "index2": 0,
+          "size": 372,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+          "issuerId": null,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 18,
+                "building": 6
+              }
+            }
+          ],
+          "profile": {
+            "factory": 4,
+            "building": 7
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 3,
+              "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+              "module": "./src/index.js + 1 modules",
+              "moduleName": "./src/index.js + 1 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./lib/components/StorybookDocsExamples/Header",
+              "loc": "1:0-71"
+            },
+            {
+              "moduleId": 3,
+              "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+              "module": "./src/index.js + 1 modules",
+              "moduleName": "./src/index.js + 1 modules",
+              "type": "harmony export imported specifier",
+              "userRequest": "./lib/components/StorybookDocsExamples/Header",
+              "loc": "6:0-11:2"
+            }
+          ],
+          "usedExports": [
+            "Header"
+          ],
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (8:2)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n| \\n| export const Header = ({ user, onLogin, onLogout, onCreateAccount }) => (\\n>   <header>\\n|     <div className=\\\"wrapper\\\">\\n|       <div>\");"
+        },
+        {
+          "id": 1,
+          "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\StorybookDocsExamples\\Button.js",
+          "name": "./src/lib/components/StorybookDocsExamples/Button.js",
+          "index": 2,
+          "index2": 1,
+          "size": 458,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+          "issuerId": null,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 18,
+                "building": 6
+              }
+            }
+          ],
+          "profile": {
+            "factory": 4,
+            "building": 7
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 3,
+              "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+              "module": "./src/index.js + 1 modules",
+              "moduleName": "./src/index.js + 1 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./lib/components/StorybookDocsExamples/Button",
+              "loc": "2:0-71"
+            },
+            {
+              "moduleId": 3,
+              "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+              "module": "./src/index.js + 1 modules",
+              "moduleName": "./src/index.js + 1 modules",
+              "type": "harmony export imported specifier",
+              "userRequest": "./lib/components/StorybookDocsExamples/Button",
+              "loc": "6:0-11:2"
+            }
+          ],
+          "usedExports": [
+            "Button"
+          ],
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (11:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n|   const mode = primary ? 'storybook-button--primary' : 'storybook-button--secondary';\\n|   return (\\n>     <button\\n|       type=\\\"button\\\"\\n|       className={['storybook-button', `storybook-button--${size}`, mode].join(' ')}\");"
+        },
+        {
+          "id": 2,
+          "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\StorybookDocsExamples\\Page.js",
+          "name": "./src/lib/components/StorybookDocsExamples/Page.js",
+          "index": 3,
+          "index2": 2,
+          "size": 427,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+          "issuerId": null,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 18,
+                "building": 6
+              }
+            }
+          ],
+          "profile": {
+            "factory": 4,
+            "building": 7
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 3,
+              "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+              "module": "./src/index.js + 1 modules",
+              "moduleName": "./src/index.js + 1 modules",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./lib/components/StorybookDocsExamples/Page",
+              "loc": "3:0-66"
+            },
+            {
+              "moduleId": 3,
+              "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+              "module": "./src/index.js + 1 modules",
+              "moduleName": "./src/index.js + 1 modules",
+              "type": "harmony export imported specifier",
+              "userRequest": "./lib/components/StorybookDocsExamples/Page",
+              "loc": "6:0-11:2"
+            }
+          ],
+          "usedExports": [
+            "Page"
+          ],
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (8:2)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n| \\n| export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => (\\n>   <article>\\n|     <Header user={user} onLogin={onLogin} onLogout={onLogout} onCreateAccount={onCreateAccount} />\\n| \");"
+        },
+        {
+          "id": 3,
+          "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+          "name": "./src/index.js + 1 modules",
+          "index": 0,
+          "index2": 4,
+          "size": 734,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "./src",
+              "loc": "main"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "Header",
+            "Button",
+            "Page",
+            "StyledButton"
+          ],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Cannot concat with ./src/lib/components/StorybookDocsExamples/Button.js (<- Module is not an ECMAScript module)",
+            "ModuleConcatenation bailout: Cannot concat with ./src/lib/components/StorybookDocsExamples/Header.js (<- Module is not an ECMAScript module)",
+            "ModuleConcatenation bailout: Cannot concat with ./src/lib/components/StorybookDocsExamples/Page.js (<- Module is not an ECMAScript module)"
+          ],
+          "depth": 0,
+          "modules": [
+            {
+              "id": null,
+              "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+              "name": "./src/index.js",
+              "index": 0,
+              "index2": 4,
+              "size": 337,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "profile": {
+                "factory": 18,
+                "building": 6
+              },
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "./src",
+                  "loc": "main"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "Header",
+                "Button",
+                "Page",
+                "StyledButton"
+              ],
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is an entry point"
+              ],
+              "depth": 0,
+              "source": "import { Header } from './lib/components/StorybookDocsExamples/Header';\nimport { Button } from './lib/components/StorybookDocsExamples/Button';\nimport { Page } from './lib/components/StorybookDocsExamples/Page'\nimport StyledButton from './lib/components/MUI-Buttons/styled-button'\n\nexport {\n  Header,\n  Button,\n  Page,\n  StyledButton\n};\n"
+            },
+            {
+              "id": null,
+              "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\MUI-Buttons\\styled-button.js",
+              "name": "./src/lib/components/MUI-Buttons/styled-button.js",
+              "index": 4,
+              "index2": 3,
+              "size": 382,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [],
+              "issuer": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+              "issuerId": null,
+              "issuerName": "./src/index.js",
+              "issuerPath": [
+                {
+                  "id": null,
+                  "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+                  "name": "./src/index.js",
+                  "profile": {
+                    "factory": 18,
+                    "building": 6
+                  }
+                }
+              ],
+              "profile": {
+                "factory": 4,
+                "building": 7
+              },
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "./lib/components/MUI-Buttons/styled-button",
+                  "loc": "4:0-69"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "type": "harmony export imported specifier",
+                  "userRequest": "./lib/components/MUI-Buttons/styled-button",
+                  "loc": "6:0-11:2"
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [],
+              "depth": 1,
+              "source": "import styled from 'styled-components';\r\n\r\nimport MatButton from '@material-ui/core/Button';\r\n\r\nconst StyledButton = styled(MatButton)`\r\n  background: linear-gradient(45deg, #fe6b8b 30%, #ff8e53 90%);\r\n  border-radius: 3px;\r\n  border: 0;\r\n  color: white;\r\n  height: 48px;\r\n  padding: 0 30px;\r\n  box-shadow: 0 3px 5px 2px rgba(255, 105, 135, 0.3);\r\n`;\r\n\r\nexport default StyledButton;"
+            }
+          ],
+          "filteredModules": 0
+        }
+      ],
+      "filteredModules": 0,
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src",
+          "reasons": []
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": 0,
+      "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\StorybookDocsExamples\\Header.js",
+      "name": "./src/lib/components/StorybookDocsExamples/Header.js",
+      "index": 1,
+      "index2": 0,
+      "size": 372,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+      "issuerId": null,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 18,
+            "building": 6
+          }
+        }
+      ],
+      "profile": {
+        "factory": 4,
+        "building": 7
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+          "module": "./src/index.js + 1 modules",
+          "moduleName": "./src/index.js + 1 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./lib/components/StorybookDocsExamples/Header",
+          "loc": "1:0-71"
+        },
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+          "module": "./src/index.js + 1 modules",
+          "moduleName": "./src/index.js + 1 modules",
+          "type": "harmony export imported specifier",
+          "userRequest": "./lib/components/StorybookDocsExamples/Header",
+          "loc": "6:0-11:2"
+        }
+      ],
+      "usedExports": [
+        "Header"
+      ],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (8:2)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n| \\n| export const Header = ({ user, onLogin, onLogout, onCreateAccount }) => (\\n>   <header>\\n|     <div className=\\\"wrapper\\\">\\n|       <div>\");"
+    },
+    {
+      "id": 1,
+      "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\StorybookDocsExamples\\Button.js",
+      "name": "./src/lib/components/StorybookDocsExamples/Button.js",
+      "index": 2,
+      "index2": 1,
+      "size": 458,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+      "issuerId": null,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 18,
+            "building": 6
+          }
+        }
+      ],
+      "profile": {
+        "factory": 4,
+        "building": 7
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+          "module": "./src/index.js + 1 modules",
+          "moduleName": "./src/index.js + 1 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./lib/components/StorybookDocsExamples/Button",
+          "loc": "2:0-71"
+        },
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+          "module": "./src/index.js + 1 modules",
+          "moduleName": "./src/index.js + 1 modules",
+          "type": "harmony export imported specifier",
+          "userRequest": "./lib/components/StorybookDocsExamples/Button",
+          "loc": "6:0-11:2"
+        }
+      ],
+      "usedExports": [
+        "Button"
+      ],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (11:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n|   const mode = primary ? 'storybook-button--primary' : 'storybook-button--secondary';\\n|   return (\\n>     <button\\n|       type=\\\"button\\\"\\n|       className={['storybook-button', `storybook-button--${size}`, mode].join(' ')}\");"
+    },
+    {
+      "id": 2,
+      "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\StorybookDocsExamples\\Page.js",
+      "name": "./src/lib/components/StorybookDocsExamples/Page.js",
+      "index": 3,
+      "index2": 2,
+      "size": 427,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+      "issuerId": null,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 18,
+            "building": 6
+          }
+        }
+      ],
+      "profile": {
+        "factory": 4,
+        "building": 7
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+          "module": "./src/index.js + 1 modules",
+          "moduleName": "./src/index.js + 1 modules",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./lib/components/StorybookDocsExamples/Page",
+          "loc": "3:0-66"
+        },
+        {
+          "moduleId": 3,
+          "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+          "module": "./src/index.js + 1 modules",
+          "moduleName": "./src/index.js + 1 modules",
+          "type": "harmony export imported specifier",
+          "userRequest": "./lib/components/StorybookDocsExamples/Page",
+          "loc": "6:0-11:2"
+        }
+      ],
+      "usedExports": [
+        "Page"
+      ],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (8:2)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n| \\n| export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => (\\n>   <article>\\n|     <Header user={user} onLogin={onLogin} onLogout={onLogout} onCreateAccount={onCreateAccount} />\\n| \");"
+    },
+    {
+      "id": 3,
+      "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js 07f10247ad00ce15c47aa7d277cc8bdc",
+      "name": "./src/index.js + 1 modules",
+      "index": 0,
+      "index2": 4,
+      "size": 734,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": null,
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "type": "single entry",
+          "userRequest": "./src",
+          "loc": "main"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "Header",
+        "Button",
+        "Page",
+        "StyledButton"
+      ],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Cannot concat with ./src/lib/components/StorybookDocsExamples/Button.js (<- Module is not an ECMAScript module)",
+        "ModuleConcatenation bailout: Cannot concat with ./src/lib/components/StorybookDocsExamples/Header.js (<- Module is not an ECMAScript module)",
+        "ModuleConcatenation bailout: Cannot concat with ./src/lib/components/StorybookDocsExamples/Page.js (<- Module is not an ECMAScript module)"
+      ],
+      "depth": 0,
+      "modules": [
+        {
+          "id": null,
+          "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+          "name": "./src/index.js",
+          "index": 0,
+          "index2": 4,
+          "size": 337,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "profile": {
+            "factory": 18,
+            "building": 6
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "./src",
+              "loc": "main"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "Header",
+            "Button",
+            "Page",
+            "StyledButton"
+          ],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is an entry point"
+          ],
+          "depth": 0,
+          "source": "import { Header } from './lib/components/StorybookDocsExamples/Header';\nimport { Button } from './lib/components/StorybookDocsExamples/Button';\nimport { Page } from './lib/components/StorybookDocsExamples/Page'\nimport StyledButton from './lib/components/MUI-Buttons/styled-button'\n\nexport {\n  Header,\n  Button,\n  Page,\n  StyledButton\n};\n"
+        },
+        {
+          "id": null,
+          "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\lib\\components\\MUI-Buttons\\styled-button.js",
+          "name": "./src/lib/components/MUI-Buttons/styled-button.js",
+          "index": 4,
+          "index2": 3,
+          "size": 382,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+          "issuerId": null,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 18,
+                "building": 6
+              }
+            }
+          ],
+          "profile": {
+            "factory": 4,
+            "building": 7
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./lib/components/MUI-Buttons/styled-button",
+              "loc": "4:0-69"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "C:\\Users\\baseb\\helixcustcomponents\\src\\index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony export imported specifier",
+              "userRequest": "./lib/components/MUI-Buttons/styled-button",
+              "loc": "6:0-11:2"
+            }
+          ],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [],
+          "depth": 1,
+          "source": "import styled from 'styled-components';\r\n\r\nimport MatButton from '@material-ui/core/Button';\r\n\r\nconst StyledButton = styled(MatButton)`\r\n  background: linear-gradient(45deg, #fe6b8b 30%, #ff8e53 90%);\r\n  border-radius: 3px;\r\n  border: 0;\r\n  color: white;\r\n  height: 48px;\r\n  padding: 0 30px;\r\n  box-shadow: 0 3px 5px 2px rgba(255, 105, 135, 0.3);\r\n`;\r\n\r\nexport default StyledButton;"
+        }
+      ],
+      "filteredModules": 0
+    }
+  ],
+  "filteredModules": 0,
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
